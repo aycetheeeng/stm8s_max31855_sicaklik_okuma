@@ -147,7 +147,7 @@ spi_init();
 
 while(1){
 
-sensor = thermocouplevalues();
+temp = thermocouplevalues();
 
 }
 
